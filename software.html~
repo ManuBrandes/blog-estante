@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<head>
+	<title>O Continente - Seja Bem-Vindo</title>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div class="conteudo">
+		<div >
+			<img align="center" src="img/estante2.png"/>
+		</div>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="livros.html">Livros</a>
+					<ul>
+						<li><a href="hq.html">HQ</a></li>
+						<li><a href="informatica.html">Informatica</a></li>
+						<li><a href="nacional.html">Nacional</a></li>
+					</ul>
+				</li>
+				<li><a href="lancamentos.html">Lançamentos</a></li>
+				<li><a href="contatos.html">Contatos</a></li>
+			</ul>
+		</nav>
+		<section class="conteudo_desc">
+			<div class="produto">
+				<h1>Engenharia de Software</h1>
+				<p>O SWEBOK (Software Engineering Book of Knowledge), organizado pela IEE Computer Society, foi um avanço da área de engenharia de software. Adotado como padrão internacional desde 2006 (ISSO/IEC TR 19759), sistematiza os conhecimentos necessários para todo engenheiro de software.</p>
+				<p>Em Engenharia de Software, são abordadas sete das dez áreas de conhecimento relacionadas ao Swebok: Teste, Manutenção, Gerenciamento de Configuração, Gerenciamento de Engenharia, Processo de Engenharia, Ferramentas e Métodos e Qualidade. As demais: Requisitos, Design e Construção são abordadas no livro Análise e Projeto de Sistemas de Informação Orientados a Objetos (Elsevier Editora, 2011). Juntos, eles formam a bibliografia mais completa sobre engenharia de software editada no Brasil. </p><br><br><br>
+				<h3>R$ 89,00</h3><br>
+				<button class="botao">Comprar</button>
+			</div>
+		</section>
+	</div>
+	<div class="rodape">
+		<p>
+			<strong> Todos direitos reservados a Manuella CORP LTDA.</strong>
+		</p>
+	</div>
+</body>
+</html>

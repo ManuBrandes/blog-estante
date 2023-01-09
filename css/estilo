@@ -1,0 +1,39 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(../img/fundo.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment:fixed;
+}
+
+.conteudo{
+	margin: auto;
+}
+
+.logo{
+	width: 791px;
+	height: 182px;
+	background-image: url(../img/estante2.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-left: 300px;
+	margin-right: auto;
+}
+
+.conteudo_home{
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+	width: 900px;
+	height: 1300px;
+}
+.rodape{
+	width: 100%;
+	height: 35px;
+	margin-bottom: 0px;	
+	background: #302f31; 
+	padding-top: 5px;
+	text-align: center;
+	color: #fff;
+}

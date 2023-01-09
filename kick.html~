@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+	<title>O Continente - Seja Bem-Vindo</title>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div class="conteudo">
+		<div >
+			<img align="center" src="img/estante2.png"/>
+		</div>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="livros.html">Livros</a>
+					<ul>
+						<li><a href="hq.html">HQ</a></li>
+						<li><a href="informatica.html">Informatica</a></li>
+						<li><a href="nacional.html">Nacional</a></li>
+					</ul>
+				</li>
+				<li><a href="lancamentos.html">Lançamentos</a></li>
+				<li><a href="contatos.html">Contatos</a></li>
+			</ul>
+		</nav>
+		<section class="conteudo_desc">
+			<div class="produto">
+				<h1>Kick - Ass 2</h1>
+				<p>Com treinamento mínimo em combate e armado com um par de bastões, ele colocou uma máscara e saiu para se tornar um super-herói: Kick-Ass. E conseguiu, embora de um jeito violento. Kick-Ass e a precoce Hit-Girl enfrentaram a máfia — e ganharam. A ideia se espalhou e, de repente, virou moda usar uniforme. Todo mundo quer ser um super-herói. Qual será o próximo passo de Kick-Ass? Obviamente, reunir uma superequipe. Mas seu antigo parceiro, Red Mist, acha que heróis são um saco, e quer se transformar no mais conhecido supervilão do mundo. Conseguirá nosso herói deter seu velho aliado e a gangue que ele armou? Ou, então, sobreviver para virar herói mesmo quando a luta pega pra valer, tornando-se um quebra-pau monumental na Times Square? Mark Millar, escritor de Nêmesis e Os Supremos, ao lado de John Romita Jr., desenhista de Os Vingadores, trazem a mais eletrizante história de quadrinhos de todos os tempos.</p><br><br>
+				<h3>R$ 20,00</h3><br>
+				<button class="botao">Comprar</button>
+		</section>
+	</div>
+	<div class="rodape">
+		<p>
+			<strong> Todos direitos reservados a Manuella CORP LTDA.</strong>
+		</p>
+	</div>
+</body>
+</html>

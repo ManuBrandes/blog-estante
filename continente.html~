@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+<head>
+	<title>O Continente - Seja Bem-Vindo</title>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<div class="conteudo">
+		<div >
+			<img align="center" src="img/estante2.png"/>
+		</div>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="livros.html">Livros</a>
+					<ul>
+						<li><a href="hq.html">HQ</a></li>
+						<li><a href="informatica.html">Informatica</a></li>
+						<li><a href="nacional.html">Nacional</a></li>
+					</ul>
+				</li>
+				<li><a href="lancamentos.html">Lançamentos</a></li>
+				<li><a href="contatos.html">Contatos</a></li>
+			</ul>
+		</nav>
+		<section class="conteudo_desc">
+			<div class="produto">
+				<h1>O Continente</h1>
+				<p>A trilogia O tempo e o vento, que inaugura o relançamento da obra completa de Erico Verissimo pela Companhia das Letras, é a mais famosa saga da literatura brasileira. São 150 anos da história do Rio Grande do Sul e do Brasil que o escritor compôs em três partes - O Continente, O retrato e O arquipélago -, publicadas entre 1949 e 1962. 
+O primeiro volume de O Continente abre a trilogia. Erico mergulha no passado do Rio Grande do Sul e do Brasil em busca das raízes do presente. O país vive um momento de redescoberta de si e de redefinição de caminhos, com o fim do Estado Novo e da Segunda Guerra Mundial, e o começo da Guerra Fria. Essa é a moldura para sua visão vertiginosa da violência e das paixões na definição da fronteira e nas guerras civis de seu estado natal.
+O Continente, segundo o crítico literário Antonio Candido 'um dos grandes romances da literatura brasileira', lança o leitor em plena ação, durante o cerco das tropas federalistas ao Sobrado do republicano Licurgo Cambará, em 1895, para em seguida retroceder um século e meio e mostrar as origens míticas e históricas do clã Terra Cambará. Acompanhando a formação dessa família, Erico nos apresenta toda a saga.</p><br>
+				<h3>R$ 52,00</h3>
+				<button class="botao">Comprar</button>
+			</div>
+		</section>
+	</div>
+	<div class="rodape">
+		<p>
+			<strong> Todos direitos reservados a Manuella CORP LTDA.</strong>
+		</p>
+	</div>
+</body>
+</html>
+		
